@@ -1,0 +1,31 @@
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.login-left{
+    background-color: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+.form-control{
+   background-color: transparent !important; 
+}
+nav{
+    background-color: #000000;
+}
+span{
+    color: rgb(120, 223, 236);
+}
+h1{
+    font-family: 'Poppins Medium';
+}
+i{
+    color: white;
+}
+#i{
+    margin-left: -110%;
+}
